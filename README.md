@@ -48,5 +48,5 @@ The project uses sample data from "Madhav Store" containing two main tables:
 - Determine the most popular payment modes (e.g., COD vs. Online) to optimize checkout processes.
 - Recognize top-performing states to focus marketing efforts.
 
-### 🖥️ Screenshots / Demos
-[Dashboard Preview](https://github.com/Abhishek8ingh/Ecommerce-Sales/blob/main/Madhav%20ecommerce%20sales%20dashboard%20image.png)
+### 🖥️ Screenshots 
+![Dashboard Preview](https://github.com/Abhishek8ingh/Ecommerce-Sales/blob/main/Madhav%20ecommerce%20sales%20dashboard%20image.png)
