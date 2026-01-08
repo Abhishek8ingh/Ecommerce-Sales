@@ -30,10 +30,6 @@ The project uses sample data from "Madhav Store" containing two main tables:
 1.  **Orders Table:** Order ID, Date, Customer Name, State, City.
 2.  **Details Table:** Amount, Profit, Quantity, Category, Sub-Category, Payment Mode.
 
-## 📸 Dashboard Screenshot
-![Dashboard Preview](dashboard_screenshot.png)
-*(Note: Upload a screenshot of your dashboard to your repo and name it `dashboard_screenshot.png` for this to work)*
-
 ## ⚙️ Process Workflow
 1.  **Data Import:** Imported raw CSV files (`Orders.csv` and `Details.csv`) into Power BI.
 2.  **Data Cleaning (Power Query):**
