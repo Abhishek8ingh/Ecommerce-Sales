@@ -48,10 +48,3 @@ The project uses sample data from "Madhav Store" containing two main tables:
 - Determine the most popular payment modes (e.g., COD vs. Online) to optimize checkout processes.
 - Recognize top-performing states to focus marketing efforts.
 
-## 🤝 Contributing
-Feel free to fork this repository and submit pull requests to improve the dashboard or add new features!
-
-## 👤 Author
-**Abhishek Singh**
-- [LinkedIn](Your_LinkedIn_URL_Here)
-- [Portfolio](Your_Portfolio_URL_Here)
